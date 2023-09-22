@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanket1726
 - 👀 I’m interested in Full Stack Scalable product development & Exploring technologies.
-- 🌱 I’m currently learning Type-Script
+- 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on System-Design and Architectural Patterns
 - 📫 How to reach me: er.benadesanket@gmail.com
 
